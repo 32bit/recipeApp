@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "recipeApp",
+    "packageName": "com.webit.application",
+    "packageFolder": "com/webit/application",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "protractor"
+    ],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.8.1",
+    "jwtSecretKey": "NTE4ZmE5ODk0OWZmNzkxNDM2YjRmOTEwZTcyODMzY2E1ZDhlMzFjMDhjYWZmNzYxMTFhMzA1NGExMTY0NDAyOWQwYWEyMzU3MDU2MDA5ZTlhNjFjNWJhZGI1MDM4ZTY4ZDExN2JlN2U0ZWRhZTRiOWYxYzA2NjU5YWJkZDY3MWU=",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "32bit",
+  "repository-name": "recipeApp"
+}
